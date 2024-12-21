@@ -13,6 +13,8 @@ The smart contract allows for:
 
 ## Contract Address
 0xd9145CCE52D386f254917e481eB44e9943F39138
+![image](https://github.com/user-attachments/assets/4c265514-3a02-4e3b-b94c-6ceb4d096da8)
+
 
 ## Project Vision
 To incentivize teamwork and collaboration by enabling fair reward sharing among contributors to a challenge. This project aims to bring transparency and trust to collaborative efforts through blockchain technology.
